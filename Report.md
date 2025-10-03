@@ -15,9 +15,11 @@ Task 3: I accessed and configured the Oracle Enterprise Manager and took a scree
 
 - Issues faced:
 
-  The issue I faced was that i did not know how to use docker to connect it to my oracle sql developer. I solved the issue by watching a youtube tutorial on how to install docker
-  and how it functions and made some researches on the internet on how to connect docker and my oracle sql developer.
+The issue I faced was that i did not know how to use docker to connect it to my oracle sql developer. I solved the issue by watching youtube tutorials on how to install docker, how it functions and how to connect docker and my oracle sql developer.
   
-  Here's the link to the youtube tutorial I used: https://youtu.be/pTFZFxd4hOI?si=ouG8STUrwT165mAJ
+  References: - https://youtu.be/pTFZFxd4hOI?si=ouG8STUrwT165mAJ
+              - https://youtu.be/ciYsDbBx80s?si=YmI5pPPUVk5uj0kT
+              - Lecture notes
+  
 
 
